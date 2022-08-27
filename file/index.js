@@ -1,5 +1,11 @@
 console.log("Hello")
 
+<<<<<<< HEAD
+=======
+const age = 35;
+if (age => 18) {
+    console.log("Вы совершено.лет-й")
+>>>>>>> feature/user-acess
 
 const userAge = 35
 if(userAge => 18) {
