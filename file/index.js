@@ -1,6 +1,6 @@
 console.log("Hello")
 
-const age = 20;
+const age = 35;
 if (age => 18) {
     console.log("Вы совершено.лет-й")
 
